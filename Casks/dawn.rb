@@ -1,6 +1,6 @@
 cask "dawn" do
-  version "1.1.0"
-  sha256 "97e81da1c4f63e8ff9e083817a9da81ce8cbcc7a836b4ca3e81634aae4433b06"
+  version "1.2.0"
+  sha256 "7ce5b6ce89bdf8f13f25f86da5f9275c3f17188e94387664dd5e8b1d78c8b860"
 
   url "https://github.com/open-dawn/dawn/releases/download/v#{version}/DAWN-#{version}.dmg"
   name "DAWN"
